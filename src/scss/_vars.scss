@@ -1,0 +1,25 @@
+// COLORS //
+$color-black: #000;
+$color-white: #fff;
+$color-blue: #4D7EC3;;
+$color-green: #27A46A;;
+
+// FONTS //
+$ff: "JJannon";
+$font-mabry: "Mabry Pro";
+
+
+
+// BREAKPOINTS //
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 992px;
+$breakpoint-xl: 1200px;
+
+// CONTAINER // 
+
+.container {
+    max-width: 902px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
